@@ -1,0 +1,7 @@
+git init
+git status
+git add file name
+///////git add . (folder k sari file daldega)
+git commit -m"initial commit"
+Git remote add origin yaha pa git online URL
+git config --global user.email abdulhannan1200ah@gmail.com
